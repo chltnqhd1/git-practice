@@ -1,9 +1,9 @@
 team: Tigers
 
-manager: John
+manager: Donald 
 
 members:
 - Linda
 - William
 - David
-// This is a comment in the YAML file 
+# This is a comment in the YAML file
