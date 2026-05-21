@@ -1,9 +1,10 @@
 team: Tigers
 
-manager: Donald, George
+manager: Kenneth
 
 members:
 - Linda
 - William
 - David
+- olivia
 # This is a comment in the YAML file
